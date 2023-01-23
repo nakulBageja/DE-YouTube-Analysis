@@ -27,5 +27,6 @@ This project aims to securely manage, streamline, and perform analysis on the st
 6. Connecting Athena table to Power BI.
 7. Performing analysis on Power BI
 ## Analysis
+[Power BI Workspace](https://app.powerbi.com/groups/me/reports/3af6d8a1-ff53-4314-a99c-89f3d0533275/ReportSection)!
 <img src="assets/Analysis_power_bi.png">
 
